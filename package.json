@@ -1,0 +1,20 @@
+{
+  "name": "dronenav",
+  "version": "1.0.0",
+  "description": "A drone navigation system for autonomous flight planning and obstacle avoidance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drone",
+    "navigation",
+    "autonomous",
+    "flight",
+    "planning",
+    "obstacle-avoidance"
+  ],
+  "author": "tanishkacshekar",
+  "license": "MIT"
+}
